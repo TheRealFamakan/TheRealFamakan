@@ -11,7 +11,7 @@ Machine Learning, Data Engineering, NLP, LLMs, and Optimization.
 
 ## Tech Stack
 
-### Languages & Core
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
@@ -23,16 +23,22 @@ Machine Learning, Data Engineering, NLP, LLMs, and Optimization.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### NLP / LLM
 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
 
-### Data Engineering
+### Optimization / Operations Research
+
+![PuLP](https://img.shields.io/badge/PuLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linear Programming](https://img.shields.io/badge/Linear_Programming-2F4F4F?style=for-the-badge)
+![Integer Programming](https://img.shields.io/badge/Integer_Programming-4B5563?style=for-the-badge)
+![CVRP](https://img.shields.io/badge/CVRP-6B7280?style=for-the-badge)
+
+### Data Engineering / BI
 
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -48,18 +54,17 @@ Machine Learning, Data Engineering, NLP, LLMs, and Optimization.
 
 ### Development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ---
 
 ## What I work on
