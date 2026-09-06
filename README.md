@@ -1,16 +1,11 @@
 # Hi, I'm Famakan Camara
 
-### Data & AI Engineer
-
 What happens when you give an engineer a dataset, a laptop, and too much curiosity about AI?
 
 This profile, mostly.
 
 I'm a Data Engineering & AI student at ENSA Khouribga, building things around
 Machine Learning, Data Engineering, NLP, LLMs, and Optimization.
-
-I like turning messy data into something useful — preferably with a bit of
-Python, some questionable debugging decisions, and way too many Jupyter notebooks.
 
 ---
 
